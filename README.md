@@ -13,11 +13,11 @@ Giảng viên: TS. Lê Đình Duy, ThS. Phạm Nguyễn Trường An
 
 Thành viên nhóm HKV:
 
-1.   Nguyễn Trung Kiên - 21521024
+Nguyễn Trung Kiên - 21521024
 
-2.   Nguyễn Sĩ Hùng - 21522119
+Nguyễn Sĩ Hùng - 21522119
 
-3.   Phạm Quốc Việt - 21522792
+Phạm Quốc Việt - 21522792
 1. Mô tả bài toán
 - Input: Tập dataset bao gồm họ và tên, format tiếng Việt + giới tính
 - Output: Giới tính của người cần được dự đoán
