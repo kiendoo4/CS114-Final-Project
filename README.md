@@ -1,4 +1,23 @@
-Mô tả đồ án: Dự đoán giới tính của một người thông qua họ tên (tiếng Việt)
+**TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN**
+
+**ĐỒ ÁN CUỐI KỲ MÔN MÁY HỌC - CS114.N21**
+
+![image](https://github.com/kiendoo4/Final-project/assets/95215777/b2b3fc57-6a39-4eb2-8513-2cdc9ae6b269)
+
+
+**ĐỒ ÁN: DỰ ĐOÁN GIỚI TÍNH CỦA NGƯỜI VIỆT DỰA VÀO HỌ TÊN NGƯỜI ĐÓ**
+
+Lớp: CS114.N21
+
+Giảng viên: TS. Lê Đình Duy, ThS. Phạm Nguyễn Trường An
+
+Thành viên nhóm HKV:
+
+1.   Nguyễn Trung Kiên - 21521024
+
+2.   Nguyễn Sĩ Hùng - 21522119
+
+3.   Phạm Quốc Việt - 21522792
 1. Mô tả bài toán
 - Input: Tập dataset bao gồm họ và tên, format tiếng Việt + giới tính
 - Output: Giới tính của người cần được dự đoán
