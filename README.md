@@ -1,9 +1,10 @@
+![image](https://github.com/kiendoo4/final-project/assets/95215777/43cb2a5f-05cf-45e1-8f94-ce07765af616)
+
+
 **TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN**
 
 **ĐỒ ÁN CUỐI KỲ MÔN MÁY HỌC - CS114.N21**
 
-![image](![image](https://github.com/kiendoo4/final-project/assets/95215777/a6eef002-9120-4691-aca0-29967f317efe)
-)
 
 
 **ĐỒ ÁN: DỰ ĐOÁN GIỚI TÍNH CỦA NGƯỜI VIỆT DỰA VÀO HỌ TÊN NGƯỜI ĐÓ**
