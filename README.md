@@ -2,7 +2,8 @@
 
 **ĐỒ ÁN CUỐI KỲ MÔN MÁY HỌC - CS114.N21**
 
-![image](https://github.com/kiendoo4/Final-project/assets/95215777/b2b3fc57-6a39-4eb2-8513-2cdc9ae6b269)
+![image](![image](https://github.com/kiendoo4/final-project/assets/95215777/a6eef002-9120-4691-aca0-29967f317efe)
+)
 
 
 **ĐỒ ÁN: DỰ ĐOÁN GIỚI TÍNH CỦA NGƯỜI VIỆT DỰA VÀO HỌ TÊN NGƯỜI ĐÓ**
